@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Gustavo Marinho
 
-I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**,
-with hands-on experience in **frontend development** and **academic cybersecurity labs**.
+I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**,  
+with hands-on experience in **frontend development**, **backend REST APIs**, and **academic cybersecurity labs**.
+
+I enjoy building **well-structured, tested, and documented applications**, always focusing on clean code, learning, and best practices.
 
 ---
 
 ## 💻 Areas of interest
 - Frontend development (HTML, CSS, JavaScript)
+- Backend development (Java & Spring Boot)
+- REST API design and validation
 - Responsive and accessible web interfaces
 - Cybersecurity (defensive security and ethical studies)
 - Programming fundamentals (Java and Python)
@@ -15,16 +19,31 @@ with hands-on experience in **frontend development** and **academic cybersecurit
 
 ## 🧪 Featured projects
 
+### 🧩 Task Manager API — REST Backend (Portfolio Project)
+A **portfolio-ready REST API** for task management, built with professional backend practices.
+
+**Key features:**
+- CRUD operations with pagination
+- DTO validation and global error handling
+- OpenAPI / Swagger documentation
+- Dockerized PostgreSQL with Flyway migrations
+- Automated tests and CI with GitHub Actions
+
+🛠 Java • Spring Boot • PostgreSQL • Docker • Flyway • JUnit • GitHub Actions  
+🔗 https://github.com/GustavoMPrado/task-manager-api
+
+---
+
 ### 🌐 Menstruação Sem Tabu — Institutional Website
 Frontend project developed for a social education initiative.
 
-🔗 https://gustavomprado.github.io/menstruacao-sem-tabu-website/  
-🛠 HTML • CSS • JavaScript • GitHub Pages
+🛠 HTML • CSS • JavaScript • GitHub Pages  
+🔗 https://gustavomprado.github.io/menstruacao-sem-tabu-website/
 
 ---
 
 ### 🔐 Ransomware — Academic Cybersecurity Study
-Academic lab project analyzing ransomware behavior in isolated environments,
+Academic lab project analyzing ransomware behavior in isolated environments,  
 focused on **defensive understanding and ethical use only**.
 
 🛠 Python • Cryptography • Cybersecurity
@@ -39,5 +58,13 @@ Laboratory study of phishing techniques for **detection, prevention, and awarene
 ---
 
 ## 📫 Contact
-- Email: gmarinhoprado@gmail.com
-- GitHub: https://github.com/GustavoMPrado
+- 📧 Email: gmarinhoprado@gmail.com  
+- 💻 GitHub: https://github.com/GustavoMPrado  
+
+---
+
+## 🧭 Currently learning
+- Advanced Spring Boot patterns
+- REST API testing and CI/CD pipelines
+- Preparing for full-stack development (React integration)
+
