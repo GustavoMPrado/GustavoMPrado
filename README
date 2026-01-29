@@ -1,62 +1,53 @@
 # 👋 Hi, I'm Gustavo Marinho
 
-I’m a **Systems Analysis and Development (ADS)** student at **UNINTER**, building portfolio projects across **Full-Stack Development (Java/Spring + React)** and **Cybersecurity (ethical, academic labs)**.
+I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**, building portfolio projects across **Full-Stack Development (Java/Spring + React)** and **Cybersecurity (ethical, lab-based practice)**.
 
 I like turning ideas into **clean, well-structured applications** with real CRUD flows, solid typing, and a good developer experience.
 
 ---
 
-## 💻 Focus areas
-- **Full-Stack Development:** Java + Spring Boot, React, TypeScript
+## 🧠 Focus areas
+- **Full-Stack Development:** Java 21, Spring Boot, React, TypeScript
 - **REST APIs:** validation, pagination/filtering, error handling
 - **Frontend UI/UX:** responsive interfaces, feedback states, clean UX
 - **Databases:** PostgreSQL, migrations (Flyway)
-- **DevOps basics:** Docker / Compose, Git/GitHub
-- **Cybersecurity (academic):** defensive studies, ethical lab practice
+- **DevOps basics:** Docker / Compose, GitHub Actions
+- **Cybersecurity (academic / labs):** defensive studies, ethical practice
 
 ---
 
-## 🧪 Featured projects
+## 🚀 Featured projects
 
 ### ✅ Task Manager — Full Stack (Backend + Frontend)
 A **portfolio-ready full-stack Task Manager** with real-world list UX: **pagination, search, filters, sorting**, plus full CRUD.
 
-**Highlights**
-- UI: pagination, search (`q`), filters (status/priority), sorting, page size
-- Inline PATCH updates for status/priority
-- UX: toast notifications + busy overlay
-- Local run: Docker Compose or Windows scripts
+**Live Demo (Frontend):** https://gustavomprado.github.io/task-manager-frontend/  
+**API (Backend):** https://task-manager-api-njza.onrender.com  
+**Health:** https://task-manager-api-njza.onrender.com/actuator/health  
 
-🛠 **Java 21 · Spring Boot · PostgreSQL · Flyway · React · Vite · TypeScript · Tailwind · Docker**  
-🔗 Frontend: https://github.com/GustavoMPrado/task-manager-frontend  
-🔗 Backend: https://github.com/GustavoMPrado/task-manager-api  
+> **Note:** Render Free may have a **cold start** (~50s) on the first request.
 
----
-
-### 🌐 Menstruação Sem Tabu — Institutional Website
-Website developed for a social education initiative.
-
-🛠 HTML · CSS · JavaScript · GitHub Pages  
-🔗 https://gustavomprado.github.io/menstruacao-sem-tabu-website/
+**Repos**
+- Backend: https://github.com/GustavoMPrado/task-manager-api
+- Frontend: https://github.com/GustavoMPrado/task-manager-frontend
 
 ---
 
-### 🔐 Cybersecurity — Academic Lab Studies
-Hands-on labs focused on **defensive understanding and ethical use only**, including controlled environments and security awareness.
-
-🛠 Kali Linux · Security Awareness · Defensive Study
+## 🌐 Websites
+- Menstruação Sem Tabu — https://gustavomprado.github.io/menstruacao-sem-tabu-website/
+- (next website coming soon)
 
 ---
 
-## 🧭 Currently learning
-- Advanced Spring Boot patterns and testing
-- CI/CD basics for portfolio projects
-- Improving UI quality with TypeScript + best practices
+## 🛣️ Next improvements (planned)
+- **Task Manager V2 (Architecture/Scale):** JWT Auth (Spring Security) + Login UI
+- **Task Manager V2 (AI):** small AI feature (generate task description or summarize tasks)
+- **Cybersecurity portfolio:** (ethical lab engagement + professional report)
 
 ---
 
 ## 📫 Contact
-- Email: gmarinhoprado@gmail.com  
-- GitHub: https://github.com/GustavoMPrado
+GitHub: https://github.com/GustavoMPrado
+
 
 
