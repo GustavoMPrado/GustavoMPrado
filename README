@@ -19,7 +19,14 @@ I like turning ideas into **clean, well-structured applications** with real CRUD
 ## 🚀 Featured projects
 
 ### ✅ Task Manager — Full Stack (Backend + Frontend)
-A **portfolio-ready full-stack Task Manager** with real-world list UX: **pagination, search, filters, sorting**, plus full CRUD.
+A **portfolio-ready full-stack Task Manager** built with **Java 21 + Spring Boot + PostgreSQL** on the backend and **React + Vite + TypeScript + Tailwind** on the frontend.
+
+It includes:
+- Full CRUD
+- Pagination, search, filters, sorting
+- JWT authentication (protected routes)
+- AI-powered priority suggestion (JWT-protected endpoint)
+- Security documentation and local pentest evidence (Kali lab, controlled scope)
 
 **Live Demo (Frontend):** https://gustavomprado.github.io/task-manager-frontend/  
 **API (Backend):** https://task-manager-api-njza.onrender.com  
@@ -31,6 +38,10 @@ A **portfolio-ready full-stack Task Manager** with real-world list UX: **paginat
 - Backend: https://github.com/GustavoMPrado/task-manager-api
 - Frontend: https://github.com/GustavoMPrado/task-manager-frontend
 
+**Backend docs (security / pentest)**
+- Security notes: https://github.com/GustavoMPrado/task-manager-api/blob/main/SECURITY.md
+- Local pentest report (Kali, controlled lab): https://github.com/GustavoMPrado/task-manager-api/blob/main/docs/PENTEST.md
+
 ---
 
 ## 🌐 Websites
@@ -39,10 +50,22 @@ A **portfolio-ready full-stack Task Manager** with real-world list UX: **paginat
 
 ---
 
+## 🛡️ Cybersecurity portfolio (ethical / lab-based)
+I’m building my cybersecurity portfolio with **authorized, lab-only testing** and **defensive validation**, focused on documenting real evidence in systems I built myself.
+
+Current highlights (Task Manager API):
+- JWT-protected endpoints validated (`401` without token / `200` with token)
+- Input validation tested (`400` on invalid payloads, no `500`)
+- Pagination abuse mitigation validated (page size cap)
+- Local lab pentest evidence collected from **Kali Linux** (VirtualBox, Host-Only network)
+- Security and pentest documentation published in the backend repository
+
+---
+
 ## 🛣️ Next improvements (planned)
-- **Task Manager V2 (Architecture/Scale):** JWT Auth (Spring Security) + Login UI
-- **Task Manager V2 (AI):** small AI feature (generate task description or summarize tasks)
-- **Cybersecurity portfolio:** (ethical lab engagement + professional report)
+- **Task Manager hardening (next iterations):** additional security checks and documentation refinements
+- **Task Manager AI (next iterations):** expand AI features beyond priority suggestion
+- **Portfolio packaging:** polish project documentation and recruiter-facing presentation
 
 ---
 
