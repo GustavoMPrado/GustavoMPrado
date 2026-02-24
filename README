@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Gustavo Marinho
+# Hi, I'm Gustavo Marinho
 
-I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**, building portfolio projects across **Full-Stack Development (Java/Spring + React)** and **Cybersecurity (ethical, lab-based practice)**.
+I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**.
 
-I like turning ideas into **clean, well-structured applications** with real CRUD flows, solid typing, and a good developer experience.
+I build portfolio projects focused mainly on **Java/Spring Boot (backend)**.
+
+I also use **React/TypeScript (frontend)** and **Cybersecurity (ethical, lab-based practice)** as part of my practical portfolio work.
+
+My main project is a full-stack Task Manager that I built to show real development work: API, frontend, database, deploy, security validation, and documentation.
 
 ---
 
-## 🧠 Focus areas
-- **Full-Stack Development:** Java 21, Spring Boot, React, TypeScript
-- **REST APIs:** validation, pagination/filtering, error handling
-- **Frontend UI/UX:** responsive interfaces, feedback states, clean UX
+## Focus areas
+- **Java Backend (main focus):** Java 21, Spring Boot, REST APIs
+- **API development:** validation, pagination/filtering, error handling, JWT auth
 - **Databases:** PostgreSQL, migrations (Flyway)
-- **DevOps basics:** Docker / Compose, GitHub Actions
+- **Frontend (project support):** React, TypeScript, Vite, Tailwind
+- **DevOps / deployment basics:** Docker, Docker Compose, GitHub Actions
 - **Cybersecurity (academic / labs):** defensive studies, ethical practice
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
-### ✅ Task Manager — Full Stack (Backend + Frontend)
-A **portfolio-ready full-stack Task Manager** built with **Java 21 + Spring Boot + PostgreSQL** on the backend and **React + Vite + TypeScript + Tailwind** on the frontend.
+### Task Manager — Java/Spring Backend + React Frontend
+I built a **full-stack Task Manager** with **Java 21 + Spring Boot + PostgreSQL** on the backend and **React + Vite + TypeScript + Tailwind** on the frontend.
 
-It includes:
+What I implemented:
 - Full CRUD
 - Pagination, search, filters, sorting
 - JWT authentication (protected routes)
@@ -44,14 +48,11 @@ It includes:
 
 ---
 
-## 🌐 Websites
-- Menstruação Sem Tabu — https://gustavomprado.github.io/menstruacao-sem-tabu-website/
-- (next website coming soon)
+## Cybersecurity portfolio (ethical / lab-based)
 
----
+I’m building my cybersecurity portfolio with **authorized, lab-only testing** and **defensive validation**.
 
-## 🛡️ Cybersecurity portfolio (ethical / lab-based)
-I’m building my cybersecurity portfolio with **authorized, lab-only testing** and **defensive validation**, focused on documenting real evidence in systems I built myself.
+I focus on documenting real evidence in systems I built myself (especially the Task Manager API).
 
 Current highlights (Task Manager API):
 - JWT-protected endpoints validated (`401` without token / `200` with token)
@@ -62,15 +63,20 @@ Current highlights (Task Manager API):
 
 ---
 
-## 🛣️ Next improvements (planned)
+## Next improvements (planned)
 - **Task Manager hardening (next iterations):** additional security checks and documentation refinements
 - **Task Manager AI (next iterations):** expand AI features beyond priority suggestion
-- **Portfolio packaging:** polish project documentation and recruiter-facing presentation
+- **Portfolio packaging:** improve documentation and presentation for recruiters
 
 ---
 
-## 📫 Contact
-GitHub: https://github.com/GustavoMPrado
+## Websites
+- Menstruação Sem Tabu — https://gustavomprado.github.io/menstruacao-sem-tabu-website/
+- (next website coming soon)
 
+
+## Contact
+GitHub: https://github.com/GustavoMPrado
+Email: gmarinhoprado@gmail.com
 
 
