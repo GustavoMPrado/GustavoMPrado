@@ -1,82 +1,57 @@
 # Hi, I'm Gustavo Marinho
 
-I'm a **Systems Analysis and Development (ADS)** student at **UNINTER**.
+I'm a **Systems Analysis and Development** student at **UNINTER**, focused on starting my career as a **Junior Java Backend Developer**.
 
-I build portfolio projects focused mainly on **Java/Spring Boot (backend)**.
+I build portfolio projects centered on **Java and Spring Boot**, with emphasis on REST APIs, data validation, authentication, relational databases, and application deployment.
 
-I also use **React/TypeScript (frontend)** and **Cybersecurity (ethical, lab-based practice)** as part of my practical portfolio work.
+## Main stack
+- Java 21
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Flyway
+- JWT
+- Docker
+- Git and GitHub
 
-My main project is a full-stack Task Manager that I built to show real development work: API, frontend, database, deploy, security validation, and documentation.
+## Featured project
 
----
+### Prioriza
+A full-stack activity management application built to practice and demonstrate core backend development skills with Java.
 
-## Focus areas
-- **Java Backend (main focus):** Java 21, Spring Boot, REST APIs
-- **API development:** validation, pagination/filtering, error handling, JWT auth
-- **Databases:** PostgreSQL, migrations (Flyway)
-- **Frontend (project support):** React, TypeScript, Vite, Tailwind
-- **DevOps / deployment basics:** Docker, Docker Compose, GitHub Actions
-- **Cybersecurity (academic / labs):** defensive studies, ethical practice
+**Backend**
+- Java 21
+- Spring Boot
+- PostgreSQL
+- Flyway
+- JWT
+- Docker Compose
 
----
+**Frontend**
+- React
+- TypeScript
+- Vite
 
-## Featured projects
+**What the project includes**
+- activity CRUD
+- data validation
+- pagination and filters
+- JWT authentication
+- relational database integration
+- database versioning with migrations
+- application deployment
 
-### Task Manager — Java/Spring Backend + React Frontend
-I built a **full-stack Task Manager** with **Java 21 + Spring Boot + PostgreSQL** on the backend and **React + Vite + TypeScript + Tailwind** on the frontend.
+**Links**
+- Frontend: https://gustavomprado.github.io/prioriza-frontend/
+- Backend: https://task-manager-api-njza.onrender.com
+- Health: https://task-manager-api-njza.onrender.com/actuator/health
+- Backend repo: https://github.com/GustavoMPrado/prioriza-api
+- Frontend repo: https://github.com/GustavoMPrado/prioriza-frontend
 
-What I implemented:
-- Full CRUD
-- Pagination, search, filters, sorting
-- JWT authentication (protected routes)
-- AI-powered priority suggestion (JWT-protected endpoint)
-- Security documentation and local pentest evidence (Kali lab, controlled scope)
-
-**Live Demo (Frontend):** https://gustavomprado.github.io/task-manager-frontend/  
-**API (Backend):** https://task-manager-api-njza.onrender.com  
-**Health:** https://task-manager-api-njza.onrender.com/actuator/health  
-
-> **Note:** Render Free may have a **cold start** (~50s) on the first request.
-
-**Repos**
-- Backend: https://github.com/GustavoMPrado/task-manager-api
-- Frontend: https://github.com/GustavoMPrado/task-manager-frontend
-
-**Backend docs (security / pentest)**
-- Security notes: https://github.com/GustavoMPrado/task-manager-api/blob/main/SECURITY.md
-- Local pentest report (Kali, controlled lab): https://github.com/GustavoMPrado/task-manager-api/blob/main/docs/PENTEST.md
-
----
-
-## Cybersecurity portfolio (ethical / lab-based)
-
-I’m building my cybersecurity portfolio with **authorized, lab-only testing** and **defensive validation**.
-
-I focus on documenting real evidence in systems I built myself (especially the Task Manager API).
-
-Current highlights (Task Manager API):
-- JWT-protected endpoints validated (`401` without token / `200` with token)
-- Input validation tested (`400` on invalid payloads, no `500`)
-- Pagination abuse mitigation validated (page size cap)
-- Local lab pentest evidence collected from **Kali Linux** (VirtualBox, Host-Only network)
-- Security and pentest documentation published in the backend repository
-
----
-
-## Next improvements (planned)
-- **Task Manager hardening (next iterations):** additional security checks and documentation refinements
-- **Task Manager AI (next iterations):** expand AI features beyond priority suggestion
-- **Portfolio packaging:** improve documentation and presentation for recruiters
-
----
-
-## Websites
-- Menstruação Sem Tabu — https://gustavomprado.github.io/menstruacao-sem-tabu-website/
-- (next website coming soon)
-
+> Note: the backend is hosted on Render free tier, so the first request may take a little longer because of cold start.
 
 ## Contact
-GitHub: https://github.com/GustavoMPrado
-Email: gmarinhoprado@gmail.com
+- GitHub: https://github.com/GustavoMPrado
+- Email: gmarinhoprado@gmail.com
 
 
