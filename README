@@ -43,10 +43,10 @@ A full-stack activity management application built to practice and demonstrate c
 
 **Links**
 - Frontend: https://gustavomprado.github.io/prioriza-frontend/
-- Backend: https://task-manager-api-njza.onrender.com
-- Health: https://task-manager-api-njza.onrender.com/actuator/health
-- Backend repo: https://github.com/GustavoMPrado/prioriza-api
-- Frontend repo: https://github.com/GustavoMPrado/prioriza-frontend
+- Backend (produção): https://task-manager-api-njza.onrender.com
+- Health check: https://task-manager-api-njza.onrender.com/actuator/health
+- Repositório backend: https://github.com/GustavoMPrado/prioriza-api
+- Repositório frontend: https://github.com/GustavoMPrado/prioriza-frontend
 
 > Note: the backend is hosted on Render free tier, so the first request may take a little longer because of cold start.
 
