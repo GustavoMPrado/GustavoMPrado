@@ -1,57 +1,115 @@
 # Hi, I'm Gustavo Marinho
 
-I'm a **Systems Analysis and Development** student at **UNINTER**, focused on starting my career as a **Junior Java Backend Developer**.
+I'm a **Systems Analysis and Development** student at **UNINTER**, focused on building my career as a **Junior Java Backend Developer**.
 
-I build portfolio projects centered on **Java and Spring Boot**, with emphasis on REST APIs, data validation, authentication, relational databases, and application deployment.
+I develop portfolio projects centered on **Java, Spring Boot, REST APIs, relational databases, Docker and Git**, with emphasis on authentication, validation, persistence, database migrations, API design and application deployment.
 
 ## Main stack
-- Java 21
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Flyway
-- JWT
-- Docker
-- Git and GitHub
 
-## Featured project
+* Java 21
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* Spring Data JPA / Hibernate
+* Flyway
+* JWT / Spring Security
+* Docker and Docker Compose
+* Git and GitHub
+* React and TypeScript
+
+## Featured projects
 
 ### Prioriza
-A full-stack activity management application built to practice and demonstrate core backend development skills with Java.
+
+A full-stack activity management application built to practice and demonstrate core backend development skills with Java and Spring Boot.
+
+The project includes a Spring Boot back-end, a React/TypeScript front-end, authentication, protected routes, CRUD operations, pagination, filters, database persistence, migrations and deployment.
 
 **Backend**
-- Java 21
-- Spring Boot
-- PostgreSQL
-- Flyway
-- JWT
-- Docker Compose
+
+* Java 21
+* Spring Boot
+* PostgreSQL
+* Spring Data JPA / Hibernate
+* Flyway
+* JWT / Spring Security
+* Docker Compose
 
 **Frontend**
-- React
-- TypeScript
-- Vite
+
+* React
+* TypeScript
+* Vite
+* Tailwind CSS
 
 **What the project includes**
-- activity CRUD
-- data validation
-- pagination and filters
-- JWT authentication
-- relational database integration
-- database versioning with migrations
-- application deployment
+
+* Activity CRUD
+* Data validation
+* Pagination and filters
+* JWT authentication
+* Protected routes
+* Relational database integration
+* Database versioning with Flyway migrations
+* Docker-based local environment
+* Back-end and front-end deployment
 
 **Links**
-- Frontend: https://gustavomprado.github.io/prioriza-frontend/
-- Backend (produção): https://task-manager-api-njza.onrender.com
-- Health check: https://task-manager-api-njza.onrender.com/actuator/health
-- Repositório backend: https://github.com/GustavoMPrado/prioriza-api
-- Repositório frontend: https://github.com/GustavoMPrado/prioriza-frontend
+
+* Frontend: https://gustavomprado.github.io/prioriza-frontend/
+* Backend production: https://task-manager-api-njza.onrender.com
+* Health check: https://task-manager-api-njza.onrender.com/actuator/health
+* Backend repository: https://github.com/GustavoMPrado/prioriza-api
+* Frontend repository: https://github.com/GustavoMPrado/prioriza-frontend
 
 > Note: the backend is hosted on Render free tier, so the first request may take a little longer because of cold start.
 
+---
+
+### Recebivel API
+
+A back-end REST API in development for managing customers, charges, installments, due dates and payments for small businesses.
+
+The project is focused on practicing business rules, domain organization, persistence, validation, status control and API structure using Java and Spring Boot.
+
+**Backend**
+
+* Java 21
+* Spring Boot
+* Maven
+* PostgreSQL
+* Spring Data JPA / Hibernate
+* Flyway
+* Docker
+
+**What the project includes**
+
+* Customer management
+* Charge management
+* Installment management
+* Due date and payment control
+* Status control
+* Business rules
+* Data validation
+* Error handling
+* Domain-based organization
+
+## Currently studying
+
+* Java and Spring Boot
+* REST API design
+* SQL and relational databases
+* Docker and Docker Compose
+* Microservices fundamentals
+* Kafka and event-driven architecture
+* CI/CD concepts
+* Cloud fundamentals
+* React and TypeScript
+
 ## Contact
-- GitHub: https://github.com/GustavoMPrado
-- Email: gmarinhoprado@gmail.com
+
+* GitHub: https://github.com/GustavoMPrado
+* LinkedIn: https://linkedin.com/in/gustavo-marinho-prado-79531b313
+* Email: [gmarinhoprado@gmail.com](mailto:gmarinhoprado@gmail.com)
 
 
