@@ -2,7 +2,7 @@
 
 I'm a **Systems Analysis and Development** student at **UNINTER**, focused on building my career as a **Junior Java Backend Developer**.
 
-I develop portfolio projects centered on **Java, Spring Boot, REST APIs, relational databases, Docker and Git**, with emphasis on authentication, validation, persistence, database migrations, API design and application deployment.
+I develop portfolio projects and technical challenge solutions centered on **Java, Spring Boot, REST APIs, relational databases, Docker and Git**, with emphasis on authentication, validation, persistence, database migrations, API design, automated tests and application deployment.
 
 ## Main stack
 
@@ -15,6 +15,7 @@ I develop portfolio projects centered on **Java, Spring Boot, REST APIs, relatio
 * JWT / Spring Security
 * Docker and Docker Compose
 * Git and GitHub
+* JUnit
 * React and TypeScript
 
 ## Featured projects
@@ -68,7 +69,7 @@ The project includes a Spring Boot back-end, a React/TypeScript front-end, authe
 
 ### Recebivel API
 
-A back-end REST API in development for managing customers, charges, installments, due dates and payments for small businesses.
+A back-end REST API for managing customers, charges, installments, due dates and payments for small businesses.
 
 The project is focused on practicing business rules, domain organization, persistence, validation, status control and API structure using Java and Spring Boot.
 
@@ -81,6 +82,7 @@ The project is focused on practicing business rules, domain organization, persis
 * Spring Data JPA / Hibernate
 * Flyway
 * Docker
+* JUnit
 
 **What the project includes**
 
@@ -93,6 +95,47 @@ The project is focused on practicing business rules, domain organization, persis
 * Data validation
 * Error handling
 * Domain-based organization
+* Automated tests
+
+**Repository**
+
+* Backend repository: https://github.com/GustavoMPrado/recebivel-api
+
+---
+
+### Stock Reconciliation API
+
+A back-end technical challenge project built with Java and Spring Boot, focused on stock reconciliation based on marketplace events.
+
+The project simulates the processing of stock events, stock adjustments, order cancellation, duplicated events, out-of-order events and stock inconsistencies.
+
+**Backend**
+
+* Java 21
+* Spring Boot
+* Maven
+* PostgreSQL
+* Spring Data JPA / Hibernate
+* Flyway
+* Docker
+* JUnit
+
+**What the project includes**
+
+* Event processing
+* Stock balance control
+* Idempotency handling
+* Logical duplicate detection
+* Out-of-order event handling
+* Stock inconsistency detection
+* Stock movement history
+* Automated tests
+* Docker-based local environment
+* API documentation with usage examples
+
+**Repository**
+
+* Backend repository: https://github.com/GustavoMPrado/gubee-stock-reconciliation
 
 ## Currently studying
 
